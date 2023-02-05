@@ -274,3 +274,4 @@ C:\Users\hatal\OneDrive - University of Johannesburg\VG-Road-Agencies\VG ApiF\VG
 C:\Users\hatal\OneDrive - University of Johannesburg\VG-Road-Agencies\VG ApiF\VG ApiF\obj\Debug\net7.0\VG ApiF.pdb
 C:\Users\hatal\OneDrive - University of Johannesburg\VG-Road-Agencies\VG ApiF\VG ApiF\obj\Debug\net7.0\VG ApiF.genruntimeconfig.cache
 C:\Users\hatal\OneDrive - University of Johannesburg\VG-Road-Agencies\VG ApiF\VG ApiF\obj\Debug\net7.0\ref\VG ApiF.dll
+C:\Users\hatal\OneDrive - University of Johannesburg\VG-Road-Agencies\VG ApiF\VG ApiF\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
